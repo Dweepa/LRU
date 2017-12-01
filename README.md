@@ -7,6 +7,7 @@ Least recently used cache implementation using Data Structures in c.
 
 ## lru.c 
 Gives a broad understanding of the program.
+
 ![text](https://github.com/Dweepa/LRU/blob/master/screenshots/lru%20screenshot.png)
 
 #### TO EXECUTE:
@@ -24,10 +25,11 @@ $./a.out
     4. RAM linear search - slower than all the cache
 
 ## lru_copy.c 
-Gives a detailed approach of the program.
+Gives the detailed approach of the program.
 
 #### TO EXECUTE lru_copy.c
 $gcc lru_copy.c
+
 $./a.out
 
 When prompted to enter the cache capacity please enter the capacities 3, 5 and 10 to see each of their working.

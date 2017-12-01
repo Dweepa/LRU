@@ -11,6 +11,7 @@ Gives a broad understanding of the program.
 
 #### TO EXECUTE:
 $gcc lru.c
+
 $./a.out
 
 #### WHAT THE PROGRAM DOES:

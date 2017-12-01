@@ -5,15 +5,15 @@ Least recently used cache implementation using Data Structures in c.
 - Uses queues to track least recently used page number.
 - Uses an array for RAM.
 
-##lru.c 
+## lru.c 
 Gives a broad understanding of the program.
 ![text](https://github.com/Dweepa/LRU/blob/master/screenshots/lru%20screenshot.png)
 
-####TO EXECUTE:
+#### TO EXECUTE:
 $gcc lru.c
 $./a.out
 
-####WHAT THE PROGRAM DOES:
+#### WHAT THE PROGRAM DOES:
 - The program mimics a cache using hash tables and a queue. The hash tables provide for easy access of the element and the queue keeps track of the most recently and least recently used elements.
 
 - This program times the references from caches with 3 different capacities and direct linear searching through ram to see which is the most efficient.
@@ -23,10 +23,10 @@ $./a.out
     3. Cache capacity:10 - fastest among all 3 caches.
     4. RAM linear search - slower than all the cache
 
-##lru_copy.c 
+## lru_copy.c 
 Gives a detailed approach of the program.
 
-####TO EXECUTE lru_copy.c
+#### TO EXECUTE lru_copy.c
 $gcc lru_copy.c
 $./a.out
 

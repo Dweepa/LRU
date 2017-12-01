@@ -8,7 +8,7 @@ Least recently used cache implementation using Data Structures in c.
 ## lru.c 
 Gives a broad understanding of the program.
 
-<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/lru%20screenshot.png" width="200">
+<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/lru%20screenshot.png" width="300">
 
 #### TO EXECUTE:
 $gcc lru.c
@@ -37,9 +37,13 @@ When prompted to enter the cache capacity please enter the capacities 3, 5 and 1
 
 Enter 0 after entering all the three cache capacities to see the integrated result.
 
-![text](https://github.com/Dweepa/LRU/blob/master/screenshots/cache_3.png)
-![text](https://github.com/Dweepa/LRU/blob/master/screenshots/cache_5.png)
-![text](https://github.com/Dweepa/LRU/blob/master/screenshots/cache_10.png)
-![text](https://github.com/Dweepa/LRU/blob/master/screenshots/cache_everything.png)
+
+<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/cache_3.png" width="300">
+
+<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/cache_5.png" width="300">
+
+<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/cache_10.png" width="300">
+
+<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/cache_everything.png" width="300">
 
 

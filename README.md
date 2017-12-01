@@ -8,7 +8,7 @@ Least recently used cache implementation using Data Structures in c.
 ## lru.c 
 Gives a broad understanding of the program.
 
-![text](https://github.com/Dweepa/LRU/blob/master/screenshots/lru%20screenshot.png)
+<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/lru%20screenshot.png" width="200">
 
 #### TO EXECUTE:
 $gcc lru.c

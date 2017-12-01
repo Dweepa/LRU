@@ -9,7 +9,7 @@ Least recently used cache implementation using Data Structures in c.
 Gives a broad understanding of the program.
 
 <center>
-<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/lru%20screenshot.png" width="400">
+<img src ="https://github.com/Dweepa/LRU/blob/master/screenshots/lru%20screenshot.png" width="4600">
    </center>
 
 #### TO EXECUTE:
